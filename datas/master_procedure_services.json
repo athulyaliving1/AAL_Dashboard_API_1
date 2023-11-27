@@ -1,0 +1,974 @@
+[
+  {
+    "id": "1",
+    "procedure_service_name": "Cathode ray",
+    "procedure_service_price": "2000.00",
+    "tax_id": "1",
+    "created_at": "2019-07-09 16:16:53",
+    "updated_at": "2022-03-09 19:37:27",
+    "deleted_at": null
+  },
+  {
+    "id": "2",
+    "procedure_service_name": "Welcome checkup",
+    "procedure_service_price": "500.00",
+    "tax_id": "1",
+    "created_at": "2019-07-09 16:16:53",
+    "updated_at": "2023-04-25 22:10:19",
+    "deleted_at": null
+  },
+  {
+    "id": "3",
+    "procedure_service_name": "Nebulization",
+    "procedure_service_price": "50.00",
+    "tax_id": "1",
+    "created_at": "2019-12-10 21:54:32",
+    "updated_at": "2023-04-25 21:00:42",
+    "deleted_at": null
+  },
+  {
+    "id": "4",
+    "procedure_service_name": "Oxygen",
+    "procedure_service_price": "100.00",
+    "tax_id": "1",
+    "created_at": "2019-12-10 21:55:32",
+    "updated_at": "2023-04-25 22:10:07",
+    "deleted_at": null
+  },
+  {
+    "id": "5",
+    "procedure_service_name": "Dressing",
+    "procedure_service_price": "200.00",
+    "tax_id": "1",
+    "created_at": "2019-12-10 21:55:41",
+    "updated_at": "2023-04-25 20:56:56",
+    "deleted_at": null
+  },
+  {
+    "id": "6",
+    "procedure_service_name": "24hrs nursing services",
+    "procedure_service_price": "1580.00",
+    "tax_id": "1",
+    "created_at": "2020-10-26 19:15:23",
+    "updated_at": "2022-03-09 19:38:04",
+    "deleted_at": null
+  },
+  {
+    "id": "7",
+    "procedure_service_name": "12hrs nursing sevices",
+    "procedure_service_price": "1000.00",
+    "tax_id": "1",
+    "created_at": "2020-10-26 19:15:51",
+    "updated_at": "2022-03-09 19:38:15",
+    "deleted_at": null
+  },
+  {
+    "id": "8",
+    "procedure_service_name": "24hrs nursing services",
+    "procedure_service_price": "1580.00",
+    "tax_id": "1",
+    "created_at": "2020-10-26 19:16:01",
+    "updated_at": "2022-03-09 19:38:22",
+    "deleted_at": null
+  },
+  {
+    "id": "9",
+    "procedure_service_name": "Nebulization",
+    "procedure_service_price": "100.00",
+    "tax_id": "1",
+    "created_at": "2020-10-26 20:03:02",
+    "updated_at": "2023-04-25 21:01:00",
+    "deleted_at": null
+  },
+  {
+    "id": "10",
+    "procedure_service_name": "physiotharepy",
+    "procedure_service_price": "600.00",
+    "tax_id": "1",
+    "created_at": "2020-10-26 20:07:33",
+    "updated_at": "2022-03-09 19:38:41",
+    "deleted_at": null
+  },
+  {
+    "id": "11",
+    "procedure_service_name": "physiotharepy",
+    "procedure_service_price": "400.00",
+    "tax_id": "1",
+    "created_at": "2020-10-26 20:08:07",
+    "updated_at": "2022-03-09 19:38:51",
+    "deleted_at": null
+  },
+  {
+    "id": "12",
+    "procedure_service_name": "12hrs nursing sevices",
+    "procedure_service_price": "900.00",
+    "tax_id": "1",
+    "created_at": "2020-10-26 20:17:20",
+    "updated_at": "2022-03-09 19:39:00",
+    "deleted_at": null
+  },
+  {
+    "id": "13",
+    "procedure_service_name": "12hrs nursing sevices",
+    "procedure_service_price": "850.00",
+    "tax_id": "1",
+    "created_at": "2020-10-26 20:17:32",
+    "updated_at": "2022-03-09 19:39:10",
+    "deleted_at": null
+  },
+  {
+    "id": "14",
+    "procedure_service_name": "12hrs nursing sevices",
+    "procedure_service_price": "650.00",
+    "tax_id": "1",
+    "created_at": "2020-10-26 20:18:25",
+    "updated_at": "2022-03-09 19:39:21",
+    "deleted_at": null
+  },
+  {
+    "id": "15",
+    "procedure_service_name": "24hrs nursing services",
+    "procedure_service_price": "2000.00",
+    "tax_id": "1",
+    "created_at": "2020-10-26 20:19:45",
+    "updated_at": "2022-03-09 19:39:33",
+    "deleted_at": null
+  },
+  {
+    "id": "16",
+    "procedure_service_name": "Nursing Assistant 24 hrs male",
+    "procedure_service_price": "10000.00",
+    "tax_id": "1",
+    "created_at": "2020-10-27 19:39:31",
+    "updated_at": "2023-01-06 20:41:27",
+    "deleted_at": null
+  },
+  {
+    "id": "17",
+    "procedure_service_name": "Minimal hours Male",
+    "procedure_service_price": "500.00",
+    "tax_id": "1",
+    "created_at": "2020-10-27 19:39:58",
+    "updated_at": "2023-04-25 22:09:57",
+    "deleted_at": null
+  },
+  {
+    "id": "18",
+    "procedure_service_name": "Minimum hours Female",
+    "procedure_service_price": "400.00",
+    "tax_id": "1",
+    "created_at": "2020-10-27 19:40:12",
+    "updated_at": "2023-04-25 22:10:34",
+    "deleted_at": null
+  },
+  {
+    "id": "19",
+    "procedure_service_name": "Nursing Assistant  for outside visit female(/hr)",
+    "procedure_service_price": "100.00",
+    "tax_id": "1",
+    "created_at": "2020-10-27 19:41:25",
+    "updated_at": "2022-03-09 19:40:15",
+    "deleted_at": null
+  },
+  {
+    "id": "20",
+    "procedure_service_name": "Nursing Assistant  for outside visit male(/hr)",
+    "procedure_service_price": "150.00",
+    "tax_id": "1",
+    "created_at": "2020-10-27 19:41:36",
+    "updated_at": "2022-03-09 19:40:24",
+    "deleted_at": null
+  },
+  {
+    "id": "21",
+    "procedure_service_name": "Monitor",
+    "procedure_service_price": "100.00",
+    "tax_id": "1",
+    "created_at": "2020-10-27 19:41:54",
+    "updated_at": "2023-04-25 22:10:46",
+    "deleted_at": null
+  },
+  {
+    "id": "22",
+    "procedure_service_name": "Physio therapy",
+    "procedure_service_price": "500.00",
+    "tax_id": "1",
+    "created_at": "2020-10-27 19:42:28",
+    "updated_at": "2022-03-09 19:40:46",
+    "deleted_at": null
+  },
+  {
+    "id": "23",
+    "procedure_service_name": "24 HRS NURSING SERVICE ",
+    "procedure_service_price": "1800.00",
+    "tax_id": "1",
+    "created_at": "2020-10-27 22:13:54",
+    "updated_at": "2022-03-09 19:40:56",
+    "deleted_at": null
+  },
+  {
+    "id": "24",
+    "procedure_service_name": "24 HRS NURSING SERVICE ",
+    "procedure_service_price": "1800.00",
+    "tax_id": "1",
+    "created_at": "2020-10-27 22:14:46",
+    "updated_at": "2022-03-09 19:41:06",
+    "deleted_at": null
+  },
+  {
+    "id": "25",
+    "procedure_service_name": "24 HRS NURSING SERVICE ",
+    "procedure_service_price": "1800.00",
+    "tax_id": "1",
+    "created_at": "2020-10-27 22:15:18",
+    "updated_at": "2022-03-09 19:41:18",
+    "deleted_at": null
+  },
+  {
+    "id": "26",
+    "procedure_service_name": "DIALYSIS",
+    "procedure_service_price": "4075.00",
+    "tax_id": "1",
+    "created_at": "2020-10-27 22:17:46",
+    "updated_at": "2023-04-25 22:13:16",
+    "deleted_at": null
+  },
+  {
+    "id": "27",
+    "procedure_service_name": "DIALYSIS",
+    "procedure_service_price": "2650.00",
+    "tax_id": "1",
+    "created_at": "2020-10-27 22:17:58",
+    "updated_at": "2023-04-25 22:13:06",
+    "deleted_at": null
+  },
+  {
+    "id": "28",
+    "procedure_service_name": "24 HRS NURSING SERVICE ",
+    "procedure_service_price": "1800.00",
+    "tax_id": "1",
+    "created_at": "2020-10-27 22:22:09",
+    "updated_at": "2022-03-09 19:41:48",
+    "deleted_at": null
+  },
+  {
+    "id": "29",
+    "procedure_service_name": "Blood test",
+    "procedure_service_price": "1475.00",
+    "tax_id": "1",
+    "created_at": "2020-10-29 20:38:02",
+    "updated_at": "2023-04-25 22:13:27",
+    "deleted_at": null
+  },
+  {
+    "id": "30",
+    "procedure_service_name": "24 HRS NURSING SERVICE ",
+    "procedure_service_price": "0.22",
+    "tax_id": "1",
+    "created_at": "2020-11-28 22:10:22",
+    "updated_at": "2022-03-09 19:42:10",
+    "deleted_at": null
+  },
+  {
+    "id": "31",
+    "procedure_service_name": "24 HRS NURSING SERVICE ",
+    "procedure_service_price": "2200.00",
+    "tax_id": "1",
+    "created_at": "2020-11-28 22:11:15",
+    "updated_at": "2022-03-09 19:42:20",
+    "deleted_at": null
+  },
+  {
+    "id": "32",
+    "procedure_service_name": "12 HRS NURSING SERVICE",
+    "procedure_service_price": "1100.00",
+    "tax_id": "1",
+    "created_at": "2021-04-10 00:50:28",
+    "updated_at": "2022-03-09 19:42:31",
+    "deleted_at": null
+  },
+  {
+    "id": "33",
+    "procedure_service_name": "Nursing Assistent Service female 12 hrs",
+    "procedure_service_price": "800.00",
+    "tax_id": "1",
+    "created_at": "2021-07-26 21:37:01",
+    "updated_at": "2022-03-09 19:42:42",
+    "deleted_at": null
+  },
+  {
+    "id": "34",
+    "procedure_service_name": "Physio therapy",
+    "procedure_service_price": "5000.00",
+    "tax_id": "1",
+    "created_at": "2021-12-21 16:10:23",
+    "updated_at": "2022-03-09 19:42:53",
+    "deleted_at": null
+  },
+  {
+    "id": "35",
+    "procedure_service_name": "Physio therapy",
+    "procedure_service_price": "4000.00",
+    "tax_id": "1",
+    "created_at": "2021-12-21 16:10:31",
+    "updated_at": "2022-03-09 19:43:12",
+    "deleted_at": null
+  },
+  {
+    "id": "36",
+    "procedure_service_name": "Physio therapy",
+    "procedure_service_price": "500.00",
+    "tax_id": "1",
+    "created_at": "2021-12-21 16:10:36",
+    "updated_at": "2022-03-09 19:43:45",
+    "deleted_at": null
+  },
+  {
+    "id": "37",
+    "procedure_service_name": "Physio therapy",
+    "procedure_service_price": "3000.00",
+    "tax_id": "1",
+    "created_at": "2021-12-21 16:13:30",
+    "updated_at": "2022-03-09 19:44:10",
+    "deleted_at": null
+  },
+  {
+    "id": "38",
+    "procedure_service_name": "Physiotherapy",
+    "procedure_service_price": "1000.00",
+    "tax_id": "1",
+    "created_at": "2021-12-22 20:21:33",
+    "updated_at": "2022-03-09 19:44:27",
+    "deleted_at": null
+  },
+  {
+    "id": "39",
+    "procedure_service_name": "Physiotherapy",
+    "procedure_service_price": "700.00",
+    "tax_id": "1",
+    "created_at": "2021-12-22 20:21:44",
+    "updated_at": "2022-03-09 19:44:40",
+    "deleted_at": null
+  },
+  {
+    "id": "40",
+    "procedure_service_name": "12hrs nursing sevices",
+    "procedure_service_price": "790.00",
+    "tax_id": "1",
+    "created_at": "2021-12-22 23:41:11",
+    "updated_at": "2022-03-09 19:44:59",
+    "deleted_at": null
+  },
+  {
+    "id": "41",
+    "procedure_service_name": "catheterization",
+    "procedure_service_price": "500.00",
+    "tax_id": "1",
+    "created_at": "2021-12-24 02:42:13",
+    "updated_at": "2023-04-25 22:13:38",
+    "deleted_at": null
+  },
+  {
+    "id": "42",
+    "procedure_service_name": "Physio therapy",
+    "procedure_service_price": "300.00",
+    "tax_id": "1",
+    "created_at": "2022-01-10 02:57:22",
+    "updated_at": "2022-03-09 19:45:31",
+    "deleted_at": null
+  },
+  {
+    "id": "43",
+    "procedure_service_name": "Physio therapy",
+    "procedure_service_price": "400.00",
+    "tax_id": "1",
+    "created_at": "2022-01-10 02:57:31",
+    "updated_at": "2022-03-09 19:46:04",
+    "deleted_at": null
+  },
+  {
+    "id": "44",
+    "procedure_service_name": "Physio therapy",
+    "procedure_service_price": "300.00",
+    "tax_id": "1",
+    "created_at": "2022-01-10 02:57:45",
+    "updated_at": "2022-03-09 19:46:25",
+    "deleted_at": null
+  },
+  {
+    "id": "45",
+    "procedure_service_name": "Nursing Assistant 24 hrs Male",
+    "procedure_service_price": "2200.00",
+    "tax_id": "1",
+    "created_at": "2022-01-22 18:20:14",
+    "updated_at": "2022-03-09 19:46:54",
+    "deleted_at": null
+  },
+  {
+    "id": "46",
+    "procedure_service_name": "Nursing Assistant 24 hrs Male",
+    "procedure_service_price": "2400.00",
+    "tax_id": "1",
+    "created_at": "2022-01-22 18:20:25",
+    "updated_at": "2022-03-09 19:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": "47",
+    "procedure_service_name": "Nursing Assistant 12 hrs Male",
+    "procedure_service_price": "1100.00",
+    "tax_id": "1",
+    "created_at": "2022-01-22 18:43:13",
+    "updated_at": "2022-03-09 19:47:53",
+    "deleted_at": null
+  },
+  {
+    "id": "48",
+    "procedure_service_name": "Nursing Assistant 12 hrs Male",
+    "procedure_service_price": "1200.00",
+    "tax_id": "1",
+    "created_at": "2022-01-22 18:43:27",
+    "updated_at": "2022-03-09 19:48:33",
+    "deleted_at": null
+  },
+  {
+    "id": "49",
+    "procedure_service_name": "Rylse tube ",
+    "procedure_service_price": "500.00",
+    "tax_id": "1",
+    "created_at": "2022-02-23 20:22:56",
+    "updated_at": "2023-04-25 22:12:23",
+    "deleted_at": null
+  },
+  {
+    "id": "50",
+    "procedure_service_name": "Doctor visit ",
+    "procedure_service_price": "1000.00",
+    "tax_id": "1",
+    "created_at": "2022-04-21 22:05:15",
+    "updated_at": "2023-04-25 22:14:18",
+    "deleted_at": null
+  },
+  {
+    "id": "51",
+    "procedure_service_name": "Dressing",
+    "procedure_service_price": "100.00",
+    "tax_id": "1",
+    "created_at": "2022-06-22 21:04:18",
+    "updated_at": "2023-04-25 20:57:09",
+    "deleted_at": null
+  },
+  {
+    "id": "52",
+    "procedure_service_name": "Nursing Assistant 24 hrs FeMale",
+    "procedure_service_price": "2500.00",
+    "tax_id": "1",
+    "created_at": "2022-08-01 18:15:31",
+    "updated_at": "2022-08-01 18:15:31",
+    "deleted_at": null
+  },
+  {
+    "id": "53",
+    "procedure_service_name": "Suture Removel",
+    "procedure_service_price": "500.00",
+    "tax_id": "1",
+    "created_at": "2022-08-23 17:17:25",
+    "updated_at": "2022-08-23 17:17:25",
+    "deleted_at": null
+  },
+  {
+    "id": "54",
+    "procedure_service_name": "Additional Nursing Assistant - Male 12 Hours",
+    "procedure_service_price": "33600.00",
+    "tax_id": "1",
+    "created_at": "2022-12-27 22:16:47",
+    "updated_at": "2023-04-25 20:50:51",
+    "deleted_at": null
+  },
+  {
+    "id": "55",
+    "procedure_service_name": "Physiotherapy",
+    "procedure_service_price": "5500.00",
+    "tax_id": "1",
+    "created_at": "2022-12-27 22:17:30",
+    "updated_at": "2022-12-27 22:17:30",
+    "deleted_at": null
+  },
+  {
+    "id": "56",
+    "procedure_service_name": "Physiotherapy",
+    "procedure_service_price": "24000.00",
+    "tax_id": "1",
+    "created_at": "2022-12-27 22:32:49",
+    "updated_at": "2022-12-27 22:46:32",
+    "deleted_at": null
+  },
+  {
+    "id": "57",
+    "procedure_service_name": "DVT Pump",
+    "procedure_service_price": "6000.00",
+    "tax_id": "1",
+    "created_at": "2022-12-27 22:33:33",
+    "updated_at": "2023-04-25 22:14:05",
+    "deleted_at": null
+  },
+  {
+    "id": "58",
+    "procedure_service_name": "Additional Nursing Assistant - Female 24 Hours",
+    "procedure_service_price": "24000.00",
+    "tax_id": "1",
+    "created_at": "2022-12-27 22:50:06",
+    "updated_at": "2023-04-25 20:51:08",
+    "deleted_at": null
+  },
+  {
+    "id": "59",
+    "procedure_service_name": "Additional Staff Nursing  - Female 24 Hours",
+    "procedure_service_price": "2800.00",
+    "tax_id": "1",
+    "created_at": "2022-12-27 22:50:28",
+    "updated_at": "2023-04-25 20:51:25",
+    "deleted_at": null
+  },
+  {
+    "id": "60",
+    "procedure_service_name": "Physiotherapy",
+    "procedure_service_price": "17600.00",
+    "tax_id": "1",
+    "created_at": "2022-12-27 22:51:05",
+    "updated_at": "2022-12-27 22:51:05",
+    "deleted_at": null
+  },
+  {
+    "id": "61",
+    "procedure_service_name": "Additional Nursing Assistant -Female 24 Hours",
+    "procedure_service_price": "60000.00",
+    "tax_id": "1",
+    "created_at": "2022-12-27 22:57:48",
+    "updated_at": "2023-04-25 20:51:58",
+    "deleted_at": null
+  },
+  {
+    "id": "62",
+    "procedure_service_name": "Additional Nursing Assistant -Female 12 Hours",
+    "procedure_service_price": "30000.00",
+    "tax_id": "1",
+    "created_at": "2022-12-27 22:59:35",
+    "updated_at": "2023-04-25 20:52:21",
+    "deleted_at": null
+  },
+  {
+    "id": "63",
+    "procedure_service_name": "Physiotherapy",
+    "procedure_service_price": "15000.00",
+    "tax_id": "1",
+    "created_at": "2022-12-27 22:59:54",
+    "updated_at": "2022-12-27 22:59:54",
+    "deleted_at": null
+  },
+  {
+    "id": "64",
+    "procedure_service_name": "Additional Nursing Staff - Male -24hours",
+    "procedure_service_price": "2800.00",
+    "tax_id": "1",
+    "created_at": "2022-12-27 23:15:16",
+    "updated_at": "2023-04-25 20:52:40",
+    "deleted_at": null
+  },
+  {
+    "id": "65",
+    "procedure_service_name": "Additional Nursing Assistant -Female 24 Hours",
+    "procedure_service_price": "2000.00",
+    "tax_id": "1",
+    "created_at": "2022-12-27 23:15:36",
+    "updated_at": "2023-04-25 20:56:42",
+    "deleted_at": null
+  },
+  {
+    "id": "66",
+    "procedure_service_name": "Additional Nursing Assistant -Female 12 Hours",
+    "procedure_service_price": "1000.00",
+    "tax_id": "1",
+    "created_at": "2022-12-27 23:16:19",
+    "updated_at": "2023-04-25 20:56:19",
+    "deleted_at": null
+  },
+  {
+    "id": "67",
+    "procedure_service_name": "Additional Nursing Assistant - Male 12 Hours",
+    "procedure_service_price": "1200.00",
+    "tax_id": "1",
+    "created_at": "2022-12-27 23:16:34",
+    "updated_at": "2023-04-25 20:55:58",
+    "deleted_at": null
+  },
+  {
+    "id": "68",
+    "procedure_service_name": "Additional Nursing Assistant - Female 24 Hours",
+    "procedure_service_price": "2000.00",
+    "tax_id": "1",
+    "created_at": "2022-12-27 23:16:49",
+    "updated_at": "2023-04-25 20:55:38",
+    "deleted_at": null
+  },
+  {
+    "id": "69",
+    "procedure_service_name": "Additional Staff Nursing  - Female 24 Hours",
+    "procedure_service_price": "2800.00",
+    "tax_id": "1",
+    "created_at": "2022-12-27 23:17:05",
+    "updated_at": "2023-04-25 20:55:14",
+    "deleted_at": null
+  },
+  {
+    "id": "70",
+    "procedure_service_name": "Additional Nursing Assistant - female 12 Hours ",
+    "procedure_service_price": "1400.00",
+    "tax_id": "1",
+    "created_at": "2022-12-27 23:17:21",
+    "updated_at": "2023-04-25 20:54:41",
+    "deleted_at": null
+  },
+  {
+    "id": "71",
+    "procedure_service_name": "Additional Nursing Assistant - female 24 Hours ",
+    "procedure_service_price": "2000.00",
+    "tax_id": "1",
+    "created_at": "2022-12-27 23:17:32",
+    "updated_at": "2023-04-25 20:54:23",
+    "deleted_at": null
+  },
+  {
+    "id": "72",
+    "procedure_service_name": "Physiotherapy",
+    "procedure_service_price": "12000.00",
+    "tax_id": "1",
+    "created_at": "2023-01-05 01:18:54",
+    "updated_at": "2023-01-05 01:18:54",
+    "deleted_at": null
+  },
+  {
+    "id": "73",
+    "procedure_service_name": "Additional Nursing Assistant - female 12 Hours ",
+    "procedure_service_price": "2800.00",
+    "tax_id": "1",
+    "created_at": "2023-01-05 01:22:07",
+    "updated_at": "2023-04-25 20:53:50",
+    "deleted_at": null
+  },
+  {
+    "id": "74",
+    "procedure_service_name": "Additional Nursing Assistant - female 24 Hours ",
+    "procedure_service_price": "2000.00",
+    "tax_id": "1",
+    "created_at": "2023-01-05 01:22:14",
+    "updated_at": "2023-04-25 20:53:36",
+    "deleted_at": null
+  },
+  {
+    "id": "75",
+    "procedure_service_name": "Additional Nursing Assistant - female 12 Hours ",
+    "procedure_service_price": "2800.00",
+    "tax_id": "1",
+    "created_at": "2023-01-05 01:23:01",
+    "updated_at": "2023-04-25 20:53:11",
+    "deleted_at": null
+  },
+  {
+    "id": "76",
+    "procedure_service_name": "Physio therapy",
+    "procedure_service_price": "4900.00",
+    "tax_id": "1",
+    "created_at": "2023-01-06 00:14:10",
+    "updated_at": "2023-01-06 00:14:10",
+    "deleted_at": null
+  },
+  {
+    "id": "77",
+    "procedure_service_name": "Dressing",
+    "procedure_service_price": "0.00",
+    "tax_id": "1",
+    "created_at": "2023-01-09 01:30:40",
+    "updated_at": "2023-01-09 01:30:40",
+    "deleted_at": null
+  },
+  {
+    "id": "78",
+    "procedure_service_name": "Dressing",
+    "procedure_service_price": "100.00",
+    "tax_id": "1",
+    "created_at": "2023-01-09 01:30:56",
+    "updated_at": "2023-04-25 20:57:27",
+    "deleted_at": null
+  },
+  {
+    "id": "79",
+    "procedure_service_name": "Nursing Assistant 12 hrs FeMale",
+    "procedure_service_price": "790.00",
+    "tax_id": "1",
+    "created_at": "2023-01-13 23:01:39",
+    "updated_at": "2023-01-13 23:01:39",
+    "deleted_at": null
+  },
+  {
+    "id": "80",
+    "procedure_service_name": "Nursing Assistant 12 hrs Male",
+    "procedure_service_price": "790.00",
+    "tax_id": "1",
+    "created_at": "2023-01-13 23:03:14",
+    "updated_at": "2023-01-13 23:03:14",
+    "deleted_at": null
+  },
+  {
+    "id": "81",
+    "procedure_service_name": "Nursing Assistant 12 hrs Male",
+    "procedure_service_price": "790.00",
+    "tax_id": "1",
+    "created_at": "2023-01-13 23:07:37",
+    "updated_at": "2023-01-13 23:07:37",
+    "deleted_at": null
+  },
+  {
+    "id": "82",
+    "procedure_service_name": "Nursing Assistant 12 hrs Male",
+    "procedure_service_price": "790.00",
+    "tax_id": "1",
+    "created_at": "2023-01-13 23:07:37",
+    "updated_at": "2023-01-13 23:07:37",
+    "deleted_at": null
+  },
+  {
+    "id": "83",
+    "procedure_service_name": "CBG",
+    "procedure_service_price": "50.00",
+    "tax_id": "1",
+    "created_at": "2023-01-26 22:20:38",
+    "updated_at": "2023-04-25 22:12:55",
+    "deleted_at": null
+  },
+  {
+    "id": "84",
+    "procedure_service_name": "Pre-Admission package ",
+    "procedure_service_price": "2750.00",
+    "tax_id": "1",
+    "created_at": "2023-01-27 00:20:11",
+    "updated_at": "2023-04-25 21:00:26",
+    "deleted_at": null
+  },
+  {
+    "id": "85",
+    "procedure_service_name": "Speech Therapy",
+    "procedure_service_price": "1500.00",
+    "tax_id": "1",
+    "created_at": "2023-02-18 16:11:10",
+    "updated_at": "2023-04-25 22:18:33",
+    "deleted_at": null
+  },
+  {
+    "id": "86",
+    "procedure_service_name": "Nursing Assistant 12 hrs Female",
+    "procedure_service_price": "790.00",
+    "tax_id": "1",
+    "created_at": "2023-02-20 18:24:01",
+    "updated_at": "2023-02-20 18:24:01",
+    "deleted_at": null
+  },
+  {
+    "id": "87",
+    "procedure_service_name": "CBG",
+    "procedure_service_price": "1100.00",
+    "tax_id": "1",
+    "created_at": "2023-03-25 17:35:06",
+    "updated_at": "2023-04-25 22:12:02",
+    "deleted_at": null
+  },
+  {
+    "id": "88",
+    "procedure_service_name": "CBG(2 Days)17 Times",
+    "procedure_service_price": "850.00",
+    "tax_id": "1",
+    "created_at": "2023-04-04 17:17:58",
+    "updated_at": "2023-04-25 22:11:48",
+    "deleted_at": null
+  },
+  {
+    "id": "89",
+    "procedure_service_name": "CBG",
+    "procedure_service_price": "150.00",
+    "tax_id": "1",
+    "created_at": "2023-04-06 10:44:49",
+    "updated_at": "2023-04-25 22:11:37",
+    "deleted_at": null
+  },
+  {
+    "id": "90",
+    "procedure_service_name": "CBG",
+    "procedure_service_price": "300.00",
+    "tax_id": "1",
+    "created_at": "2023-04-06 10:46:09",
+    "updated_at": "2023-04-25 22:11:22",
+    "deleted_at": null
+  },
+  {
+    "id": "91",
+    "procedure_service_name": "physiotherapy (Monthly)",
+    "procedure_service_price": "40000.00",
+    "tax_id": "1",
+    "created_at": "2023-04-24 14:13:08",
+    "updated_at": "2023-04-24 14:13:08",
+    "deleted_at": null
+  },
+  {
+    "id": "92",
+    "procedure_service_name": "Physiotherapy",
+    "procedure_service_price": "700.00",
+    "tax_id": "1",
+    "created_at": "2023-05-19 14:46:21",
+    "updated_at": "2023-05-19 14:46:21",
+    "deleted_at": null
+  },
+  {
+    "id": "93",
+    "procedure_service_name": "CBG",
+    "procedure_service_price": "100.00",
+    "tax_id": "1",
+    "created_at": "2023-05-19 14:47:45",
+    "updated_at": "2023-05-19 14:47:45",
+    "deleted_at": null
+  },
+  {
+    "id": "94",
+    "procedure_service_name": "Minimal hours Male",
+    "procedure_service_price": "1000.00",
+    "tax_id": "1",
+    "created_at": "2023-05-19 14:48:03",
+    "updated_at": "2023-05-19 14:48:03",
+    "deleted_at": null
+  },
+  {
+    "id": "95",
+    "procedure_service_name": "Minimal hours Female",
+    "procedure_service_price": "1000.00",
+    "tax_id": "1",
+    "created_at": "2023-05-19 14:48:14",
+    "updated_at": "2023-05-19 14:48:14",
+    "deleted_at": null
+  },
+  {
+    "id": "96",
+    "procedure_service_name": "Additional Nursing Assistant - Female 24 Hours",
+    "procedure_service_price": "3600.00",
+    "tax_id": "1",
+    "created_at": "2023-05-24 17:19:19",
+    "updated_at": "2023-05-24 17:24:24",
+    "deleted_at": null
+  },
+  {
+    "id": "97",
+    "procedure_service_name": "Minimal hours  Nursing Assistant Female - 24hr",
+    "procedure_service_price": "1000.00",
+    "tax_id": "1",
+    "created_at": "2023-05-24 17:23:51",
+    "updated_at": "2023-05-24 17:23:51",
+    "deleted_at": null
+  },
+  {
+    "id": "98",
+    "procedure_service_name": "Additional Nursing Assistant - Female 24 Hours",
+    "procedure_service_price": "3600.00",
+    "tax_id": "1",
+    "created_at": "2023-05-24 17:28:52",
+    "updated_at": "2023-05-24 17:28:52",
+    "deleted_at": null
+  },
+  {
+    "id": "99",
+    "procedure_service_name": "Additional Nursing Assistant Female - 24hr",
+    "procedure_service_price": "3600.00",
+    "tax_id": "1",
+    "created_at": "2023-05-24 18:03:55",
+    "updated_at": "2023-05-24 18:03:55",
+    "deleted_at": null
+  },
+  {
+    "id": "100",
+    "procedure_service_name": "Minimal hours Nursing Assistant Female 24hr",
+    "procedure_service_price": "1000.00",
+    "tax_id": "1",
+    "created_at": "2023-05-24 18:04:16",
+    "updated_at": "2023-05-24 18:04:16",
+    "deleted_at": null
+  },
+  {
+    "id": "101",
+    "procedure_service_name": "Minimal hours Nursing Assistant Female 24hr",
+    "procedure_service_price": "1000.00",
+    "tax_id": "1",
+    "created_at": "2023-05-24 18:04:18",
+    "updated_at": "2023-05-24 18:04:18",
+    "deleted_at": null
+  },
+  {
+    "id": "102",
+    "procedure_service_name": "Skilled nurse male 12hrs+ nursing assistant male 12 hrs",
+    "procedure_service_price": "2350.00",
+    "tax_id": "1",
+    "created_at": "2023-05-31 18:44:44",
+    "updated_at": "2023-05-31 18:44:44",
+    "deleted_at": null
+  },
+  {
+    "id": "103",
+    "procedure_service_name": "Minimal hours-Female",
+    "procedure_service_price": "1000.00",
+    "tax_id": "1",
+    "created_at": "2023-06-28 10:56:58",
+    "updated_at": "2023-06-28 10:56:58",
+    "deleted_at": null
+  },
+  {
+    "id": "104",
+    "procedure_service_name": "Nursing Assistant 24 hrs Male",
+    "procedure_service_price": "2000.00",
+    "tax_id": "1",
+    "created_at": "2023-07-13 18:34:26",
+    "updated_at": "2023-07-13 18:34:26",
+    "deleted_at": null
+  },
+  {
+    "id": "105",
+    "procedure_service_name": "Nursing  Assistant  24  hrs  Male",
+    "procedure_service_price": "2000.00",
+    "tax_id": "1",
+    "created_at": "2023-07-13 18:38:23",
+    "updated_at": "2023-07-13 18:38:23",
+    "deleted_at": null
+  },
+  {
+    "id": "106",
+    "procedure_service_name": "Nursing  Assistant  24  hrs  Male",
+    "procedure_service_price": "2000.00",
+    "tax_id": "1",
+    "created_at": "2023-07-13 18:38:24",
+    "updated_at": "2023-07-13 18:38:24",
+    "deleted_at": null
+  },
+  {
+    "id": "107",
+    "procedure_service_name": "physiotharepy",
+    "procedure_service_price": "2500.00",
+    "tax_id": "1",
+    "created_at": "2023-09-30 18:30:47",
+    "updated_at": "2023-09-30 18:30:47",
+    "deleted_at": null
+  },
+  {
+    "id": "108",
+    "procedure_service_name": "skilled nurse ",
+    "procedure_service_price": "2500.00",
+    "tax_id": "1",
+    "created_at": "2023-10-19 17:49:34",
+    "updated_at": "2023-10-19 17:49:34",
+    "deleted_at": null
+  }
+]

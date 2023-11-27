@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "medical_emergency_name": "Ambulance/5km",
+    "medical_emergency_price": "500.00",
+    "tax_id": "1",
+    "created_at": "2021-08-02 19:13:55",
+    "updated_at": "2022-03-09 19:37:12",
+    "deleted_at": null
+  },
+  {
+    "id": "2",
+    "medical_emergency_name": "OPD Visit ",
+    "medical_emergency_price": "0.00",
+    "tax_id": "1",
+    "created_at": "2022-04-26 22:47:10",
+    "updated_at": "2022-04-26 22:47:10",
+    "deleted_at": null
+  },
+  {
+    "id": "3",
+    "medical_emergency_name": "AMBULANCE  OPD VISIT",
+    "medical_emergency_price": "0.00",
+    "tax_id": "1",
+    "created_at": "2022-12-13 20:52:27",
+    "updated_at": "2022-12-13 20:54:20",
+    "deleted_at": null
+  },
+  {
+    "id": "4",
+    "medical_emergency_name": "Psycho social assessment ",
+    "medical_emergency_price": "1500.00",
+    "tax_id": "1",
+    "created_at": "2023-03-30 11:07:11",
+    "updated_at": "2023-04-25 22:08:32",
+    "deleted_at": null
+  },
+  {
+    "id": "5",
+    "medical_emergency_name": "psychiatrist Opinion",
+    "medical_emergency_price": "1500.00",
+    "tax_id": "1",
+    "created_at": "2023-03-30 11:07:31",
+    "updated_at": "2023-04-25 22:08:42",
+    "deleted_at": null
+  },
+  {
+    "id": "6",
+    "medical_emergency_name": "Dental Opinion",
+    "medical_emergency_price": "1500.00",
+    "tax_id": "1",
+    "created_at": "2023-03-30 11:07:45",
+    "updated_at": "2023-04-25 22:08:50",
+    "deleted_at": null
+  },
+  {
+    "id": "7",
+    "medical_emergency_name": "Counselling",
+    "medical_emergency_price": "1500.00",
+    "tax_id": "1",
+    "created_at": "2023-03-30 11:07:57",
+    "updated_at": "2023-04-25 22:09:03",
+    "deleted_at": null
+  },
+  {
+    "id": "8",
+    "medical_emergency_name": "ORTHO OPINION",
+    "medical_emergency_price": "3500.00",
+    "tax_id": "1",
+    "created_at": "2023-04-27 14:01:22",
+    "updated_at": "2023-04-27 14:01:22",
+    "deleted_at": null
+  },
+  {
+    "id": "9",
+    "medical_emergency_name": "OUTING CHARGES",
+    "medical_emergency_price": "0.00",
+    "tax_id": "1",
+    "created_at": "2023-06-25 12:04:03",
+    "updated_at": "2023-06-25 12:04:03",
+    "deleted_at": null
+  },
+  {
+    "id": "10",
+    "medical_emergency_name": "CARDIOLOGIST OPINION  & ECHO",
+    "medical_emergency_price": "8000.00",
+    "tax_id": "1",
+    "created_at": "2023-10-25 18:26:39",
+    "updated_at": "2023-10-25 18:26:39",
+    "deleted_at": null
+  },
+  {
+    "id": "11",
+    "medical_emergency_name": "PALLIATIVE CONSULTANT CHARGES",
+    "medical_emergency_price": "1500.00",
+    "tax_id": "1",
+    "created_at": "2023-10-25 18:27:54",
+    "updated_at": "2023-10-25 18:27:54",
+    "deleted_at": null
+  },
+  {
+    "id": "12",
+    "medical_emergency_name": "TRANSITION CONSULTANT CHARGE ",
+    "medical_emergency_price": "1500.00",
+    "tax_id": "1",
+    "created_at": "2023-10-25 18:28:51",
+    "updated_at": "2023-10-25 18:28:51",
+    "deleted_at": null
+  }
+]
