@@ -1,7 +1,7 @@
 const app = require("express");
 const router = app.Router();
 
-const Report = require("../controllers/reports.js/index.js");
+const Report = require("../controllers/reports.js");
 const branch = require("../controllers/branch.js");
 
 router.post("/consolidated_bill", Report.getConsolidatedBill);
